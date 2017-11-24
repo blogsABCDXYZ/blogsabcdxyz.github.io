@@ -1,4 +1,4 @@
 git add .
 git commit -m "statement"
-git push oringin master
+git push origin master
 pause
